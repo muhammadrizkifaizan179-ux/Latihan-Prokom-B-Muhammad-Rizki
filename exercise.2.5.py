@@ -1,0 +1,1 @@
+print('ir soekarno pernah berkata "jangan pernah menyerah, karena kegagalan adalah kesuksesan yang tertunda"')
