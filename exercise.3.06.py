@@ -1,0 +1,15 @@
+teman =('daffa', 'Briliant', 'Barra', 'Hafizh', 'Aisha')
+
+print('mejanya ada yang lebih besar nih, aku ngajak yang lain  ya')
+teman.insert(0, 'luthfi')
+teman.insert(2, 'Nayla')
+teman.append('Kayla')
+print(f'halo, ayok makan bareng {teman[0]}')
+print(f'halo, ayok makan bareng {teman[1]}')
+print(f'halo, ayok makan bareng {teman[2]}')
+print(f'halo, ayok makan bareng {teman[3]}')
+print(f'halo, ayok makan bareng {teman[4]}')
+print(f'halo, ayok makan bareng {teman[5]}')
+print(f'halo, ayok makan bareng {teman[6]}')
+print(f'halo, ayok makan bareng {teman[7]}')
+    

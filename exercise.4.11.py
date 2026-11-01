@@ -1,5 +1,6 @@
 pizza = ["pepperoni", "keju", "jamur", "ayam bbq", "sosis"]
 pizza_aan = pizza[:]
+pizza.append('cimol')
 pizza_aan.append("bawang")
 
 print("topping pizza favoritku adalah:")

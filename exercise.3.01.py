@@ -1,4 +1,4 @@
-nama = ['daffa' , 'Rizki' , 'Briliant', 'Kayla', 'naila']
+nama = ['Daffa' , 'Rizki' , 'Briliant', 'Kayla', 'Nayla']
 print(nama[0])
 print(nama[1])
 print(nama[2])
