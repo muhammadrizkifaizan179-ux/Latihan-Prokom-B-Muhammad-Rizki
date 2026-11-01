@@ -16,7 +16,7 @@ print(mobil != 'audi')
 print("\nApakah mobil != 'subaru'? aku memprediksi false.")
 print(mobil != 'subaru')
 
-# --- Tes dengan lower() ---
+# --- Tes dengan lower() --
 print("\nApakah merek.lower() == 'audi'? aku memprediksi true.")
 print(merek.lower() == 'audi')
 
