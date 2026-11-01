@@ -1,0 +1,26 @@
+negara = ["indonesia", "malaysia", "singapura", "thailand", "jepang"]
+
+negara.append("korea utara")
+negara.insert(0, "korea selatan")
+print(negara)
+print('===================')
+del negara[0]
+print(negara)
+print('===================')
+popped = negara.pop()              
+print(f"Dikeluarkan: {popped}")
+print('==================')
+negara.remove("malaysia")            
+print(negara)
+print('=====================')
+negara.extend(["Italia", "Spanyol"])  
+print(sorted(negara))          
+print('=====================')   
+negara.sort()                      
+print(negara)
+print('=====================')
+negara.reverse()                 
+print(negara)
+print('=====================')
+print(f"Jumlah negara: {len(negara)}")
+
