@@ -1,10 +1,14 @@
-ideas = [
-    "Kalkulator optimasi turunan untuk soal kalkulus",
-    "Pengecek skor audit 5R per area kerja",
-    "Pencatat deadline tugas kuliah",
-    "Game tebak angka",
-]
+import random
 
-print("My project ideas:")
-for number, idea in enumerate(ideas, start=1):
-    print(f"{number}. {idea}")
+angka = random.randint(1, 100)
+
+while True:
+    tebakan = int(input("Tebak angka (1-100): "))
+
+    if tebakan < angka:
+        print("Terlalu kecil!")
+    elif tebakan > angka:
+        print("Terlalu besar!")
+    else:
+        print("Benar!")
+        break
