@@ -1,0 +1,7 @@
+kiki
+rizki
+ikki
+ukku
+ekke
+okko
+"c:\Users\NITRO\rizki python\rizki\Scripts\python.exe" "c:/Users/NITRO/rizki python/Latihan-Prokom-B-Muhammad-Rizki/bab10/exercise_10_05.py"
